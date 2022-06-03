@@ -62,7 +62,7 @@ THEN I am able to successfully create, update, and delete data in my database
   
 `npm init`
 
-`npm install mysql2`
+`npm install mysql2
 
 `npm install sequelize`
 
