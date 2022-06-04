@@ -4,8 +4,7 @@
 link https://www.youtube.com/watch?v=lwQ5gJpLbss
   [![my first video ](https://img.youtube.com/vi/EkUx7TUQBRE/0.jpg)](https://www.youtube.com/watch?v=lwQ5gJpLbss&t=29s "my first video")
 
-<p align="center">
-    <img src="https://img.shields.io/https://github.com/Rober2092/E-commerce-Back-End" />
+
    
   
 <p align="center">
